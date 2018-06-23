@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle( "Slapper.AutoMapper" )]
 [assembly: AssemblyDescription( "Slapper.AutoMapper is a mapping library that can convert dynamic data into static types and populate complex nested child objects." )]
 [assembly: AssemblyConfiguration( "" )]
-[assembly: AssemblyCompany( "Randy Burden" )]
+[assembly: AssemblyCompany("Randy Burden & Vip")]
 [assembly: AssemblyProduct( "Slapper.AutoMapper" )]
 [assembly: AssemblyCopyright("Copyright © Randy Burden and contributors")]
 [assembly: AssemblyTrademark( "" )]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.7")]
-[assembly: AssemblyFileVersion("1.0.0.7")]
+[assembly: AssemblyVersion("1.0.0.10")]
+[assembly: AssemblyFileVersion("1.0.0.10")]
