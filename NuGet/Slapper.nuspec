@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Slapper</id>
+    <version>1.0.8</version>
+    <title>Slapper.AutoMapper</title>
+    <authors>Randy Burden &amp; Vip</authors>
+    <owners>Randy Burden &amp; Vip</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Slapper.AutoMapper is a mapping library that can convert dynamic data into static types and populate complex nested child objects.</description>
+    <copyright>Copyright © Randy Burden and contributors</copyright>
+    <dependencies />
+  </metadata>
+  <files>
+     <file src="..\Slapper.AutoMapper\bin\Release\Slapper.dll" target="lib\net462\Slapper.dll"/>
+  </files>
+</package>
